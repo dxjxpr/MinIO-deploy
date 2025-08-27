@@ -13,7 +13,7 @@
 
 项目启动方式
 
-1、进入MinIO-deploy目录
-2、修改docker-compose.yml文件中的volumes挂载目录，修改为部署电脑上真实有效路
-3、使用命令:docker-compose up -d 进行启动
+1、进入MinIO-deploy目录  
+2、修改docker-compose.yml文件中的volumes挂载目录，修改为部署电脑上真实有效路  
+3、使用命令:docker-compose up -d 进行启动  
 4、浏览器输入地址：服务器IP:9001  进行控制台访问
