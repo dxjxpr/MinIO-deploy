@@ -2,15 +2,15 @@
 
 该项目主要是部署MinIO持久化存储，以及使用Python3进行上传下载查询等代码操作
 这只是一个可以部署成功，能够使用python3进行操作的示例项目
-
+  
 使用docker以及docker-compose.yml进行部署
-
-对外开放API端口是：9000
+  
+对外开放API端口是：9000  
 控制台端口是：9001
-
+  
 默认用户名是：admin
 默认密码是：minioadmin
-
+  
 项目启动方式
 
 1、进入MinIO-deploy目录  
